@@ -1,6 +1,6 @@
 ---
 home: true
-title: Home
+title: Town Center
 heroImage: /images/aok.png
 
 actions:
