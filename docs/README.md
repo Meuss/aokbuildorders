@@ -2,6 +2,7 @@
 home: true
 title: Home
 heroImage: /images/aok.png
+
 actions:
   - text: archers
     link: /archers.html
@@ -42,6 +43,7 @@ actions:
   - text: scouts
     link: /scouts.html
     type: primary
+
 footer: MIT Licensed | Copyright © 2018-present VuePress Community
 ---
 
