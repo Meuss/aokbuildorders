@@ -5,6 +5,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'en-US',
 
+  base: '/aokbuildorders/',
   title: 'Aok build orders',
   description: 'wololo',
 
